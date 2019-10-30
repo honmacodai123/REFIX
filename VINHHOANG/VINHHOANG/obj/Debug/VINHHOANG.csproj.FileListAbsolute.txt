@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\VINHHOANG\VINHHOANG\bin\Debug\VINHHOANG.exe.config
+C:\Users\DELL\Desktop\VINHHOANG\VINHHOANG\bin\Debug\VINHHOANG.exe
+C:\Users\DELL\Desktop\VINHHOANG\VINHHOANG\bin\Debug\VINHHOANG.pdb
+C:\Users\DELL\Desktop\VINHHOANG\VINHHOANG\obj\Debug\VINHHOANG.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\VINHHOANG\VINHHOANG\obj\Debug\VINHHOANG.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\VINHHOANG\VINHHOANG\obj\Debug\VINHHOANG.exe
+C:\Users\DELL\Desktop\VINHHOANG\VINHHOANG\obj\Debug\VINHHOANG.pdb
